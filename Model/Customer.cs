@@ -13,7 +13,7 @@ namespace Crud.Model
         }
         [Required] public string Address { get; set; }
         [Required][DataType(DataType.EmailAddress)][EmailAddress] public string Email { get; set; }
-        public int Phone { get; set; }
+        public long? Phone { get; set; }
 
         public bool Active { get; set; } = true;
 
