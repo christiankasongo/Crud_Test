@@ -1,0 +1,11 @@
+C:\Users\ckasongo\source\repos\Crud\Crud-Test\Shared\bin\Debug\net7.0\Crud-Test.Shared.deps.json
+C:\Users\ckasongo\source\repos\Crud\Crud-Test\Shared\bin\Debug\net7.0\Crud-Test.Shared.dll
+C:\Users\ckasongo\source\repos\Crud\Crud-Test\Shared\bin\Debug\net7.0\Crud-Test.Shared.pdb
+C:\Users\ckasongo\source\repos\Crud\Crud-Test\Shared\obj\Debug\net7.0\Crud-Test.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ckasongo\source\repos\Crud\Crud-Test\Shared\obj\Debug\net7.0\Crud-Test.Shared.AssemblyInfoInputs.cache
+C:\Users\ckasongo\source\repos\Crud\Crud-Test\Shared\obj\Debug\net7.0\Crud-Test.Shared.AssemblyInfo.cs
+C:\Users\ckasongo\source\repos\Crud\Crud-Test\Shared\obj\Debug\net7.0\Crud-Test.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ckasongo\source\repos\Crud\Crud-Test\Shared\obj\Debug\net7.0\Crud-Test.Shared.dll
+C:\Users\ckasongo\source\repos\Crud\Crud-Test\Shared\obj\Debug\net7.0\refint\Crud-Test.Shared.dll
+C:\Users\ckasongo\source\repos\Crud\Crud-Test\Shared\obj\Debug\net7.0\Crud-Test.Shared.pdb
+C:\Users\ckasongo\source\repos\Crud\Crud-Test\Shared\obj\Debug\net7.0\ref\Crud-Test.Shared.dll
